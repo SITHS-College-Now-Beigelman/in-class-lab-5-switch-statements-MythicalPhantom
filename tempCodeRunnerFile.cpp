@@ -1,0 +1,1 @@
+cout << "Trial " << i + 1 << ": Reached (2, 3) in " << steps << " steps.\n";
